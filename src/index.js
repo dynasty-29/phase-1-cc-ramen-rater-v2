@@ -1,5 +1,5 @@
 // index.js
-const API_URL = ""
+const API_URL = "https://dynasty-29.github.io/phase-1-cc-ramen-rater-v2/db.json"
 // Callbacks
 const handleClick = (ramen) => {
   // Add code
