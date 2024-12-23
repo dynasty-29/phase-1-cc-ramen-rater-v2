@@ -1,13 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&family=EB+Garamond:ital,wght@0,400..800;1,400..800&family=Lobster&family=Mina:wght@400;700&family=Nabla&family=Nosifer&family=Racing+Sans+One&family=Rationale&family=Zen+Dots&display=swap');
 * {
   margin: 0;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: "Rationale", serif;
   box-sizing: border-box;
+  
 }
 
 body {
   padding: 1rem;
   text-align: center;
-  background-color: #fafafa;
+  background-color: #05717d;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -17,8 +19,11 @@ body {
 header {
   padding: 0.5rem;
   width: 100%;
-  color: white;
-  background-color: black;
+  color: rgb(236, 4, 4);
+  background-color: rgb(10, 35, 65);
+}
+h1{
+  font-family: "Nosifer", serif;
 }
 
 #ramen-menu {
